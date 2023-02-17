@@ -1,2 +1,2 @@
 # sign-langauge-detection
-cosc hackathon
+please use the latest versions of every module
